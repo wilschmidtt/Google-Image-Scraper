@@ -3,4 +3,4 @@ Search Google Images for a user-defined term and download the first 'x' images t
 
 ### Example Run
 
-![images](gif/image_scraper.gif)
+![images](images/image_scraper.gif)
