@@ -149,7 +149,7 @@ def clean(brand_dir):
 
 def main():
     parser = argparse.ArgumentParser(description="Scrape images from Google Images")
-    parser.add_argument('-m', '--max_images', type=int, help="max number of images to scrape, default set to 20", default=20)
+    parser.add_argument('-m', '--max_images', type=int, help="number of images to scrape, default set to 20, max value allowed is 50", default=20)
     parser.add_argument('-t', '--search_terms', nargs='+', help='terms to search for')
     args = parser.parse_args()
     if not os.path.exists('google_images'):
