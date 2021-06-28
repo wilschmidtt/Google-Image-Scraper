@@ -1,6 +1,6 @@
 # Google Image Scraper
 Search Google Images for user-defined term(s) and download the first 'x' images to your local machine. Useful for generating the seed images needed for training an image classifier
-
+ 
 ![gif](gif/image_scraper.gif)
 
 ### Prerequisites
