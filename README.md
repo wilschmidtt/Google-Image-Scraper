@@ -20,6 +20,3 @@ Search Google Images for user-defined term(s) and download the first 'x' images 
            - max number of images to scrape, default set to 20
     * -t SEARCH_TERMS [SEARCH_TERMS ...], --search_terms SEARCH_TERMS [SEARCH_TERMS ...]
            - terms to search for
-
-### Author
-* **William Schmidt** - [Wil's LikedIn](https://www.linkedin.com/in/william-schmidt-152431168/)
