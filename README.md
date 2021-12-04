@@ -12,7 +12,7 @@ Search Google Images for user-defined term(s) and download the first 'x' images 
 * The program sends a request to Google Images, along with whatever term(s) you entered, and waits for the dynamically loaded source code to be returned
 * Once the source code has been returned, the program parses it and extracts 'x' number of images, with 'x' being entered by the user
 * Images for each term will be saved into whatever working directory you are using, with a folder being created f or each respective term
-
+ 
 ### Running the image_scraper
 * Once you have set up the environment, navigate to the directory where you have saved the program and run: ```$ python .\image_scraper.py -h```
 * There are two commands that need to be supplied prior to running the program. They are as follows:
